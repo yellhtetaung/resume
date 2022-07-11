@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Staatliches&display=swap');
+
+body{
+    background-color: #e3e3e3;
+    font-family: 'Roboto Slab', serif;
+}
+#main{
+    position: relative;
+    margin-top: 80px;
+}
+
+#logo-container{
+    position: relative;
+    top: -70px;
+}
+
+#profile-img{
+    background-color: dodgerblue;
+    border-radius: 50px;
+}
+
+#title{
+    font-family: 'Staatliches', cursive;
+}
+
+.line{
+    width: 100%;
+}
+
+#contact-list li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+#contact-list span{
+    display: block;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+#skill-box{
+    background-color: lightsteelblue;
+}
+
+#skill .progress{
+    margin-bottom: 20px;
+}
+
+#project li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+}
